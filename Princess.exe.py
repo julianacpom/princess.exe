@@ -8,7 +8,7 @@ roupa = input("Roupa (amarela/roxa): ").lower()
 personalidade = input("Personalidade (gentil/alegre): ").lower()
 acessorio = input("Acessório (rosa/flor): ").lower()
 
-print("           PROCESSANDO CRIAÇÃO...")
+print("PROCESSANDO CRIAÇÃO...")
 
 if (cabelo == "castanho" and
         roupa == "amarela" and
